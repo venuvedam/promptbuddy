@@ -24,6 +24,8 @@ Follow the steps and Prompt Buddy installs as an unmanaged solution in your envi
 
 **This is the easiest and quickest method to get started with this app template.** The provisioning is fully automated once the process starts and may take upto 2-3 minutes. You will get the option to chose which team in Teams you'd like to install this app in. 
 
+Start by downloading the zip file of the solution from the "Releases" section on the right side of this page. 
+
 If this is the first Power App in the team, a new Dataverse for Teams environment will be provisioned, the app installed, automatically shared with all members of the team and tabbed to the channel you select. You will be able to [edit the app](https://docs.microsoft.com/en-us/powerapps/teams/customize-sample-apps) after installation by opening to the Power Apps app in Teams.
 
 Note that this provisions the 'unmanaged' solution in your Teams environment. As noted below, this means that you can take advantage of any future updates being made to the app by updating the application (follow same steps as original installation).
